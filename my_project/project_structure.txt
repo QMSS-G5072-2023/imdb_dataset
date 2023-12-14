@@ -1,0 +1,30 @@
+my_project/
+©À©¤©¤ docs/
+©¦   ©À©¤©¤ LICENSE.txt
+©¦   ©À©¤©¤ README.md
+©¦   ©À©¤©¤ project_structure.txt
+©¦   ©¸©¤©¤ requirements.txt
+©À©¤©¤ images/
+©¦   ©À©¤©¤ 1.png
+©¦   ©À©¤©¤ 2.png
+©¦   ©À©¤©¤ 3.png
+©¦   ©À©¤©¤ 4.png
+©¦   ©À©¤©¤ ApiInitializeClassDiagram.png
+©¦   ©À©¤©¤ IMDB_DatasetClassDiagram.png
+©¦   ©À©¤©¤ MovieDetailClassDiagram.png
+©¦   ©À©¤©¤ MovieSearchClassDiagram.png
+©¦   ©¸©¤©¤ The Final Journey (2010).jpg
+©À©¤©¤ imdb_dataset/
+©¦   ©À©¤©¤ __init__.py
+©¦   ©À©¤©¤ api_initialize.py
+©¦   ©À©¤©¤ movie_detail.py
+©¦   ©¸©¤©¤ movie_search.py
+©À©¤©¤ tests/
+©¦   ©À©¤©¤ __init__.py
+©¦   ©À©¤©¤ P¨¢l Adrienn (2010).jpg
+©¦   ©À©¤©¤ test_api_intialize.py
+©¦   ©À©¤©¤ test_movie_detail.py
+©¦   ©¸©¤©¤ test_movie_search.py
+©À©¤©¤ .gitignore
+©À©¤©¤ example.py
+©¸©¤©¤ summit.md
